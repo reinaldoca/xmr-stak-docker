@@ -80,9 +80,9 @@ Installing cuda drivers on [Ubuntu 16 LTS](https://developer.nvidia.com/cuda-dow
 
 If you find this docker image useful, donations for work on dockerizing mining app are appreciated at any of the following addresses:
 
-- BTC: `1LNY9wSPs913Y9jXMTrrVze1E41nhm6Qv7`
-- LTC: `LhnwdbrnQaQbjDkqxXFmxXGPcFhMBA9gFu`
-- XMR: `47NHecs6qjvDcbx3eW6cDGDwdm3gDqbHs7G8hzPYRxf3YRTcDJw8kXhDxfHinsjHUwVwdFusSn76UHkaz68KurUgHvFmPMH`
+- BTC: `x`
+- LTC: `x`
+- XMR: `x`
 
 ## Acknowledgements
 
